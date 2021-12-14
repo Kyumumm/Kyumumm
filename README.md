@@ -50,4 +50,9 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyumumm&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
+<h2 align="center">💬 Education 💬</h2>
+ <p> 항해99 3기 부트캠프 진행중 (2021년 9월 ~ 현재)        - spring </p>
+ <p> 비트고급 교육 과정 완료    (2020년 9월 ~ 2021년 2월)  - .NET Framework, JAVA </p>
+ <p> 비트단기 교육 과정 완료    (2020년 7월 ~ 2020년 9월)  - C계열, JAVA </p>
+
 </div>
