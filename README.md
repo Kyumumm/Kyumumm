@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Education
-- 항해99 3기 부트캠프(spring) 진행중(2021년 9월 ~ 현재)   
-- 
+### Education
+- 항해99 3기 부트캠프 진행중 (2021년 9월 ~ 현재)        - spring
+- 비트고급 교육 과정 완료    (2020년 9월 ~ 2021년 2월)  - .NET Framework, JAVA
+- 비트단기 교육 과정 완료    (2020년 7월 ~ 2020년 9월)  - C계열, JAVA
 
 <div align=center>
 
