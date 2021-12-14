@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋🏻 Hi there
 <!--
 **Kyumumm/Kyumumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeonKyumKIM&fontSize=70&animation=twinkling)
+# Education
+- 항해99 3기 부트캠프(spring) 진행중(2021년 9월 ~ 현재)   
+- 
 
-<p align="center">🇰🇷</p>
+<div align=center>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumumm&show_icons=true&theme=radical)
+
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -36,7 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 🧸 Contact Me 🧸 </h3>
 <p align="center">
   <a href="https://velog.io/@paxwillman"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@paxwillman"/></a>&nbsp
   <a href="https://www.instagram.com/kyumumm/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyumumm/?hl=ko/"/></a>&nbsp
@@ -45,7 +49,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyumumm&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumumm&show_icons=true&theme=radical)
+
+
+</div>
