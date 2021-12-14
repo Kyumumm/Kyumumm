@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
  
- <h2 align="center">💬 Education 💬</h2>
- <p> 항해99 3기 부트캠프 진행중 (2021년 9월 ~ 현재)        - spring </p>
- <p> 비트고급 교육 과정 완료    (2020년 9월 ~ 2021년 2월)  - .NET Framework, JAVA </p>
- <p> 비트단기 교육 과정 완료    (2020년 7월 ~ 2020년 9월)  - C계열, JAVA </p>
+ 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyumumm&show_icons=true&theme=radical)
 
