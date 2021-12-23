@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@paxwillman"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@paxwillman"/></a>&nbsp
   <a href="https://www.instagram.com/kyumumm/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyumumm/?hl=ko/"/></a>&nbsp
   <a href="mailto:rlatjsrua02@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlatjsrua02@naver.com"/></a>
+  <a href="https://kindly-cosmos-8f4.notion.site/Kyum-s-Portfolio-cb048330bdb8477db8332633a57fe2d7"><img src="https://img.shields.io/badge/Portfolio-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kindly-cosmos-8f4.notion.site/Kyum-s-Portfolio-cb048330bdb8477db8332633a57fe2d7"/></a>&nbsp 
 </p>
 <br>
 
